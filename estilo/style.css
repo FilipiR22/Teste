@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+main{
+    max-width: 500px;
+    border-radius: 3px solid black;
+    margin: auto;
+    background-color: white;
+}
+h1{
+    text-align: center;
+}
